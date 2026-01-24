@@ -1,0 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mitsubishi_Pajero"
+
+generations:
+  - name: "First Generation"
+    start_year: 1982
+    end_year: 1991
+    description: "The first generation Pajero was launched in May 1982 as a luxury, rugged SUV with three-door short-wheelbase and five-door long-wheelbase body styles. It featured ladder frame chassis and options for 2.0-litre 4-cylinder petrol, 2.6-litre 4-cylinder petrol, turbocharged variants, and later a 3.0-litre V6 engine."
+
+  - name: "Second Generation"
+    start_year: 1991
+    end_year: 1999
+    description: "The second generation debuted in 1991 with a more modern design. It continued production through 1999 in Japan, though continued in some markets like Philippines until 2008, Colombia until 2012, and China until 2021. Featured improvements in comfort and performance over the first generation."
+
+  - name: "Third Generation"
+    start_year: 1999
+    end_year: 2006
+    description: "The third generation was introduced in August 1999 in Japan and late 2000 (as 2001 model) in international markets. It featured monocoque construction instead of body-on-frame design, Mitsubishi's RISE reinforcement system, and the Super Select 4WD II system. Received a minor facelift in 2003."
+
+  - name: "Fourth Generation"
+    start_year: 2006
+    end_year: 2021
+    description: "The fourth generation debuted at the 2006 Paris Motor Show and was produced from September 2006 to March 2021. It featured revised interior and exterior styling, dual-stage front airbags, and side-impact and curtain airbags. The final generation was discontinued in March 2021, ending the Pajero's 40-year production run."
